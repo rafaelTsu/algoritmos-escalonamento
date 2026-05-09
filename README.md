@@ -350,12 +350,3 @@ existe um algoritmo dominante em todas as dimensões.
   recurso de E/S.
 - A interface gráfica em Qt6 será substituída pela versão final
   desenvolvida pelos demais membros do grupo.
-
-## 11. Autoria e conduta acadêmica
-
-Trabalho desenvolvido em grupo conforme normas da disciplina.
-O presente componente (backend e interface gráfica preliminar) foi
-implementado sem consulta ou cópia de código de terceiros não
-referenciados. Discussões conceituais e revisão bibliográfica seguiram
-livros-texto da disciplina (Tanenbaum, *Sistemas Operacionais Modernos*;
-Silberschatz, *Operating System Concepts*).

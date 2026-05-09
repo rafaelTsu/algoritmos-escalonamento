@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/sanity_test.dir/link.d CMakeFiles/sanity_test.dir/sanity_test.cpp.o -o sanity_test  ../backend/libscheduler_backend.a

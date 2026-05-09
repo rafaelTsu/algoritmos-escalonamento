@@ -1,0 +1,14 @@
+/home/tsutomu/pessoal/so/build/CMakeFiles/edit_cache.dir
+/home/tsutomu/pessoal/so/build/CMakeFiles/rebuild_cache.dir
+/home/tsutomu/pessoal/so/build/backend/CMakeFiles/scheduler_backend.dir
+/home/tsutomu/pessoal/so/build/backend/CMakeFiles/edit_cache.dir
+/home/tsutomu/pessoal/so/build/backend/CMakeFiles/rebuild_cache.dir
+/home/tsutomu/pessoal/so/build/frontend/CMakeFiles/simulador.dir
+/home/tsutomu/pessoal/so/build/frontend/CMakeFiles/edit_cache.dir
+/home/tsutomu/pessoal/so/build/frontend/CMakeFiles/rebuild_cache.dir
+/home/tsutomu/pessoal/so/build/frontend/CMakeFiles/simulador_autogen_timestamp_deps.dir
+/home/tsutomu/pessoal/so/build/frontend/CMakeFiles/simulador_autogen.dir
+/home/tsutomu/pessoal/so/build/tests/CMakeFiles/sanity_test.dir
+/home/tsutomu/pessoal/so/build/tests/CMakeFiles/compare.dir
+/home/tsutomu/pessoal/so/build/tests/CMakeFiles/edit_cache.dir
+/home/tsutomu/pessoal/so/build/tests/CMakeFiles/rebuild_cache.dir

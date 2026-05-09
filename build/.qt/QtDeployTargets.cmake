@@ -1,0 +1,8 @@
+set(__QT_DEPLOY_TARGET_scheduler_backend_FILE /home/tsutomu/pessoal/so/build/backend/libscheduler_backend.a)
+set(__QT_DEPLOY_TARGET_scheduler_backend_TYPE STATIC_LIBRARY)
+set(__QT_DEPLOY_TARGET_simulador_FILE /home/tsutomu/pessoal/so/build/frontend/simulador)
+set(__QT_DEPLOY_TARGET_simulador_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_sanity_test_FILE /home/tsutomu/pessoal/so/build/tests/sanity_test)
+set(__QT_DEPLOY_TARGET_sanity_test_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_compare_FILE /home/tsutomu/pessoal/so/build/tests/compare)
+set(__QT_DEPLOY_TARGET_compare_TYPE EXECUTABLE)

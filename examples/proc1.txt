@@ -1,0 +1,7 @@
+# Formato: pid chegada prioridade burst1 burst2 ...
+# Bursts: C<n> = CPU n unidades, I<n> = E/S n unidades
+# Prioridade: menor numero = maior prioridade
+1 0 2 C5 I3 C2
+2 1 1 C4
+3 3 3 C7 I2 C3
+4 6 1 C2

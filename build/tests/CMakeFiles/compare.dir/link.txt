@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/compare.dir/link.d CMakeFiles/compare.dir/compare.cpp.o -o compare  ../backend/libscheduler_backend.a

@@ -1,7 +1,7 @@
 # Simulador de Algoritmos de Escalonamento
 
-Trabalho prático da disciplina **Sistemas Operacionais** — Mestrado em
-Computação, Faculdade de Computação, UFMS, 2026.
+Trabalho prático da disciplina **Sistemas Operacionais** — Mestrado em Ciência da
+Computação, UFMS, 2026.
 
 ## 1. Objetivo
 

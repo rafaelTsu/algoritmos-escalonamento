@@ -95,17 +95,38 @@ Dessa forma, todos os algoritmos compartilham o mesmo motor de
 execução, garantindo coerência entre os estados reportados.
 
 ## 4. Pré-requisitos
+O projeto foi desenvolvido em C++17 com CMake e Qt6 Widgets. Ele pode ser
+compilado em Linux. No Windows, recomenda-se o uso do WSL2 com Ubuntu e WSLg,
+pois a interface gráfica utiliza Qt.
 
 - Sistema Linux (testado em Debian/Ubuntu sob WSL2 com WSLg)
 - `g++` 12 ou superior (compatível com C++17)
 - `CMake` 3.16 ou superior
 - `Qt6` (módulo Widgets)
+- bibliotecas de desenvolvimento para OpenGL e XKB, necessárias para o Qt6 no WSL.
 
 Instalação em distribuições baseadas em Debian:
 
 ```bash
 sudo apt-get update
 sudo apt-get install -y build-essential cmake qt6-base-dev
+```
+Instalação no Ubuntu/WSL2:
+
+No terminal do Ubuntu, execute:
+
+```bash
+sudo apt-update
+sudo apt-install -y \
+  build-essential \
+  cmake \
+  qt6-base-dev \
+  qt6-base-dev-tools \
+  libgl1-mesa-dev \
+  mesa-common-dev \
+  libglu1-mesa-dev \
+  libxkbcommon-dev \
+  libxkbcommon-x11-dev
 ```
 
 ## 5. Compilação

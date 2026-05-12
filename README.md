@@ -369,5 +369,3 @@ existe um algoritmo dominante em todas as dimensões.
 - O modelo de E/S assume um único dispositivo: processos em BLOCKED
   têm seus bursts decrementados em paralelo, sem disputa por
   recurso de E/S.
-- A interface gráfica em Qt6 será substituída pela versão final
-  desenvolvida pelos demais membros do grupo.
